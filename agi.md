@@ -200,7 +200,7 @@ Optimističan pogled na ovu budućnost ne bi trebalo da se zasniva na naivnom ve
 
 ---
 
-Ovaj esej je prvi deo serije od dva rada. Drugi deo, *"Misaoni model svesne mašine: Teorija metasistema,"* se bavi originalnim eksperimentalni okvir za pristup problemu mašinske svesti.
+Ovaj esej je prvi deo serije od dva rada. Drugi deo, *"Misaoni model svesne mašine: Teorija metasistema,"* se bavi originalnim eksperimentalnim okvirom za pristup problemu mašinske svesti.
 
 👉 *🔗 [Ovde možete pročitati](https://github.com/UrboWhite/metasystem/blob/main/metasystem_srb.md)*
 
