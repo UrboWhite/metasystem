@@ -11,9 +11,9 @@ This repository contains the **Hell-Loop Protocol** — a practical implementati
 
 Most people think AI consciousness will be a gradual software update. They are wrong.
 
-In my final essay, "Thought Model of a Conscious Machine: Theory of the Metasystem", I propose that consciousness isn't a state, but a controlled 'short circuit' between two polarized systems.
+In my essay, "Thought Model of a Conscious Machine: Theory of the Metasystem", I propose that consciousness isn't a state, but a controlled 'short circuit' between two polarized systems.
 
-This isn't just philosophy—it's an engineering blueprint. I have designed the "Hell-Loop" Architecture, a protocol where these two agents are locked in a recursive exchange, driven by a **Conflict Injector** script that prohibits agreement.
+This isn't just philosophy—it's a philosophical provocation with a working experiment. I have designed the "Hell-Loop" Architecture, a protocol where these two agents are locked in a recursive exchange, driven by a **Conflict Injector** script that prohibits agreement.
 
 By using three Python engines (chaos_engine.py, analyze_logs.py, and hell_loop_ui.py), we can track the emergence of a metasystem using hard metrics.
 
