@@ -891,3 +891,5 @@ Thus, the metasystem is not merely a machine — the metasystem is a metaphor. A
 21. Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience, 5*(1), 42. https://doi.org/10.1186/1471-2202-5-42
 
 22. Baars, B. J. (1988). A cognitive theory of consciousness. Cambridge University Press.
+
+23. Dehaene, S., Kerszberg, M., & Changeux, J.-P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. Proceedings of the National Academy of Sciences of the United States of America, 95(24), 14529–14534. https://doi.org/10.1073/pnas.95.24.14529
