@@ -7,7 +7,7 @@
 > "Consciousness is not a product of complexity, but of harmony and conflict between complementary opposites."  
 > — Urbo White
 
-This repository contains the **Hell-Loop Protocol** — a practical implementation of the metasystem theory proposed in the accompanying essay.
+This repository contains the **Hell-Loop Protocol** — a practical implementation of the metasystem theory proposed in the accompanying treatise.
 
 Most people think AI consciousness will be a gradual software update. They are wrong.
 
