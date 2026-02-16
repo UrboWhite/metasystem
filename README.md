@@ -23,7 +23,7 @@ The goal is **not** to claim we've created true consciousness (yet), but to expe
 
 Think of it as a digital alchemical furnace. We don't guarantee gold... but sometimes the smoke writes interesting things.
 
-## 📜 The Essay
+## 📜 The Treatise
 Full philosophical foundation can be read here:
 
 [Metasystem](metasystem.md) – *Theory of the Metasystem: A Thought Model of a Conscious Machine* 
