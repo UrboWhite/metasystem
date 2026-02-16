@@ -6,7 +6,7 @@
 
 Ovaj traktat je drugi deo serije od dva rada. Čitaocima koji nisu upoznati sa osnovnim konceptima i izazovima veštačke inteligencije, preporučujemo da prvo pročitaju prethodni rad "Veštačka opšta inteligencija (AGI): Sveobuhvatna analiza od istorije do budućnosti" kao koristan uvod:
 
-*🔗 [Ovde možete pročitati](https://github.com/UrboWhite/metasystem/agi.md)*
+*🔗 [Ovde možete pročitati](https://github.com/UrboWhite/metasystem/blob/main/agi.md)*
 
 ## Uvod
 
