@@ -8,8 +8,6 @@ Preprint · februar 2026
 
 [ORCID: 0009-0005-9619-4843](https://orcid.org/0009-0005-9619-4843)
 
-[Urbo White na GitHub-u](https://github.com/UrboWhite/metasystem)
-
 ![Metasystem](metasistem.png)
 
 Ovaj traktat je drugi deo serije od dva rada. Čitaocima koji nisu upoznati sa osnovnim konceptima i izazovima veštačke inteligencije, preporučujemo da prvo pročitaju prethodni rad „Veštačka opšta inteligencija (AGI): Sveobuhvatna analiza od istorije do budućnosti“ kao koristan uvod:
