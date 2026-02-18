@@ -8,8 +8,6 @@ Preprint · February 2026
 
 [ORCID: 0009-0005-9619-4843](https://orcid.org/0009-0005-9619-4843)
 
-[Urbo White on GitHub](https://github.com/UrboWhite/metasystem)
-
 ![Metasystem](metasistem.png)
 
 This treatise is the second part of a two-part series. Readers who are not familiar with the basic concepts and challenges of artificial intelligence are encouraged to first read the previous work entitled "_Artificial General Intelligence (AGI): A Comprehensive Analysis from History to the Future_" as a useful introduction:
