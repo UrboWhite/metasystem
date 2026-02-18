@@ -26,7 +26,7 @@ Think of it as a digital alchemical furnace. We don't guarantee gold... but some
 ## 📜 The Treatise
 Full philosophical foundation can be read here:
 
-[Metasystem](metasystem.md) – *Theory of the Metasystem: A Thought Model of a Conscious Machine* 
+[Metasystem](metasystem.md) – *A Conceptual Model of the Conscious Machine: The Metasystem Theory* 
 
 Serbian version:
 
