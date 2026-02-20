@@ -2,6 +2,8 @@
 
 **A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
 
+DOI: [10.5281/zenodo.18678278](https://doi.org/10.5281/zenodo.18678278)
+
 ![Metasystem](metasistem.png)
 
 > "Consciousness is not a product of complexity, but of harmony and conflict between complementary opposites."  
