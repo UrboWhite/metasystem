@@ -1,10 +1,10 @@
 # Metasystem Theory – Conscious Machine Thought Model
 
-**A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
+**A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.*
 
-DOI: [10.5281/zenodo.18678278](https://doi.org/10.5281/zenodo.18678278)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18678278.svg)](https://doi.org/10.5281/zenodo.18678278)
 
-DOI: [10.5281/zenodo.18681257](https://zenodo.org/records/18681257))
+[![Experimental DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18681257.svg)](https://doi.org/10.5281/zenodo.18681257)
 
 ![Metasystem](metasistem.png)
 
