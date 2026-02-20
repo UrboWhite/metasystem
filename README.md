@@ -1,6 +1,6 @@
 # Metasystem Theory – Conscious Machine Thought Model
 
-**A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.*
+**A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18678278.svg)](https://doi.org/10.5281/zenodo.18678278)
 
