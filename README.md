@@ -4,6 +4,8 @@
 
 DOI: [10.5281/zenodo.18678278](https://doi.org/10.5281/zenodo.18678278)
 
+DOI: [10.5281/zenodo.18681257](https://zenodo.org/records/18681257))
+
 ![Metasystem](metasistem.png)
 
 > "Consciousness is not a product of complexity, but of harmony and conflict between complementary opposites."  
