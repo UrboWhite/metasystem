@@ -14,7 +14,7 @@ Preprint · March 2026
 
 This treatise is the second part of a two-paper series. Readers who are not familiar with the basic concepts and challenges of artificial intelligence are recommended to first read the preceding paper, "Artificial General Intelligence (AGI): A Comprehensive Analysis from History to the Future," as a useful introduction:
 
-🔗 [Read here](https://github.com/UrboWhite/metasystem/blob/main/agi.md)
+🔗 [Read here](https://github.com/UrboWhite/metasystem/blob/main/agi_eng.md)
 
 ## Introduction
 
