@@ -1,4 +1,4 @@
-# Metasystem Theory – Conscious Machine Thought Model
+# A Conceptual Model of the Conscious Machine: The Metasystem Theory
 
 **A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
 
