@@ -1,4 +1,4 @@
-.# Misaoni model svesne mašine: teorija metasistema
+# Misaoni model svesne mašine: teorija metasistema
 
 **Autor: Urbo White**
 
