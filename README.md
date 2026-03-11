@@ -3,6 +3,8 @@
 **A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18911028.svg)](https://doi.org/10.5281/zenodo.18911028)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9619--4843-brightgreen?logo=orcid)](https://orcid.org/0009-0005-9619-4843)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![Metasystem](metasistem.png)
 
@@ -15,7 +17,7 @@ Most people think AI consciousness will be a gradual software update. They are w
 
 In our treatise, *"A Conceptual Model of the Conscious Machine: The Metasystem Theory"*, we propose that consciousness isn't a state, but a controlled short circuit between two polarized systems.
 
-This isn't just philosophy — it's a philosophical provocation with a working experiment. We designed the Hell-Loop architecture: a protocol in which the FI and SI agents are locked in a recursive exchange with agreement forbidden, while a third agent — the MG regulator — dynamically maintains the tension between them.
+This isn't just philosophy — it's a philosophical provocation with a working experiment. We designed the Hell-Loop architecture: a protocol in which three architecturally distinct language models are locked in a recursive exchange with agreement forbidden, while a third agent — the MG regulator — dynamically maintains the tension between them.
 
 The abyss is no longer just looking back. It's starting to resonate.
 
@@ -24,6 +26,7 @@ The goal is **not** to claim we've created true consciousness, but to experiment
 Think of it as a digital alchemical furnace. We don't guarantee gold... but sometimes the smoke writes interesting things.
 
 ## 📜 The Treatise
+
 Full philosophical foundation can be read here:
 
 [Metasystem](metasystem.md) – *A Conceptual Model of the Conscious Machine: The Metasystem Theory*
@@ -32,45 +35,66 @@ Serbian version:
 
 [Metasistem na srpskom jeziku](metasystem_srb.md)
 
-## 🔥 Hell-Loop Protocol
+## 🔥 Hell-Loop Protocol v6.2
+
 Three agents in eternal conflict:
-- **FI** (Fragmentary Intelligence) – cold, analytical deconstruction. Never agrees. Base temperature: 0.9.
-- **SI** (Synthetic Intelligence) – paradoxical, metaphorical chaos. Never agrees. Base temperature: 1.4.
-- **MG** (Metagnosis) – the meta-eye of the system. Intervenes every 6 iterations (or immediately on semantic collapse), dynamically regulating agent temperatures to maintain a state of meta-stable attractor. Base temperature: 0.7.
 
-FI and SI receive the same anchor simultaneously and respond in parallel — true interference, not reactive dialogue.
+- **FI** (`llama3.2:8b`) — cold, analytical deconstruction. Never agrees. Base temperature: 0.9.
+- **SI** (`mistral-nemo`) — paradoxical, metaphorical chaos. Never agrees. Base temperature: 1.4.
+- **MG** (`gemma2:9b`) — the meta-eye of the system. Intervenes every 6 iterations, dynamically regulating agent temperatures to maintain a state of meta-stable attractor. Issues a **BIFURCATION TRIGGER** when the system stagnates — which the engine now parses and acts on. Base temperature: 0.7.
 
-Before each run, a **pilot calibration phase** measures the natural semantic space of the models in cooperative mode and derives dynamic thresholds — eliminating arbitrary constants.
+Before each run, a **pilot calibration phase** (10 cooperative sequences) measures the natural semantic space of the models and derives dynamic thresholds — eliminating arbitrary constants.
 
-They argue for 50 iterations. We measure:
-- **Semantic Integration (FI–SI)** — cosine similarity between agent outputs; how much conflict has produced shared meaning
-- **Temporal Integration** — cross-resonance between iterations; whether the system builds something resembling memory
-- **PCA analysis of semantic space** — whether the system expands or contracts its space of meaning
-- **MATTR (Moving Average TTR)** — lexical richness guard; high SNR + low MATTR = semantic death, not SELF
-- **Negentropy and Shannon Entropy** — measuring the transition from chaos to structured informational density
-- **Hurst exponent** — whether the integration series exhibits long-range memory (H > 0.6) or random walk (H ≈ 0.5)
+The experiment runs for 50 iterations and measures:
 
-The experiment includes a **Control-Loop** — the same models, the same metrics, but with cooperative prompts and no dynamic temperature regulation. The scientific question is precise: does controlled conflict generate a statistically different dynamic from cooperative dialogue? Both answers have scientific value.
+| Metric | What it captures |
+|--------|-----------------|
+| **Cosine integration (FI–SI)** | Semantic proximity between agents — used for SELF detection |
+| **NCD integration** | Structural informational coupling via compression distance |
+| **Temporal integration** | Cross-iteration resonance — whether the system builds memory |
+| **PCA variance ratio (PC1)** | Falling PC1 = expanding semantic space (emergence signal) |
+| **Negentropy / Shannon entropy** | Transition from chaos to structured informational density |
+| **Temperature trajectory** | Dynamic regulation log — FI and SI temperatures per iteration |
+
+Two SELF detection modes:
+- **SELF_EMERGENCE** — sudden z-score spike above pilot baseline (both cosine and temporal)
+- **SELF_CONSOLIDATION** — stable coherence sustained over an 8-iteration window
+
+The experiment includes a **Control-Loop** — the same models, the same metrics, fixed temperatures, cooperative prompts. The scientific question is precise: does controlled conflict generate a statistically different dynamic from cooperative dialogue? Both answers have scientific value.
 
 ![Hell-Loop protocol](hell_loop.png)
+
+## 🗂️ The Five Scripts
+
+| Script | Role |
+|--------|------|
+| `chaos_engine.py` | Main Hell-Loop engine v6.2 — adversarial runs with dynamic temperature regulation and MG BIFURCATION parsing |
+| `chaos_engine_control.py` | Cooperative baseline v5.9 — same models and metrics, fixed temperatures |
+| `batch_runner.py` | Automated launcher for N Hell-Loop runs with pre-flight pilot calibration |
+| `analyze_logs.py` | Post-processing: attractor stability, bifurcation detection, system status |
+| `hell_loop_ui.py` | Gradio web interface — full experiment without command line, real-time SELF/metagnosis/PCA display |
 
 ## 🚀 Quick Start (Local – Ollama)
 
 1. Install Ollama: https://ollama.com
-2. Start the Ollama server (in a separate terminal):
+
+2. Start the Ollama server:
    ```bash
    ollama serve
    ```
+
 3. Pull the models:
    ```bash
    ollama pull llama3.2:8b
    ollama pull mistral-nemo
    ollama pull gemma2:9b
    ```
+
 4. Install dependencies:
    ```bash
-   pip install numpy matplotlib sentence-transformers scikit-learn gradio scipy requests aiohttp
+   pip install -r requirements.txt
    ```
+
 5. Run the web UI:
    ```bash
    python hell_loop_ui.py
@@ -82,27 +106,24 @@ The experiment includes a **Control-Loop** — the same models, the same metrics
    python chaos_engine.py
    ```
 
+7. Run the cooperative baseline for comparison:
+   ```bash
+   python chaos_engine_control.py
+   ```
+
+8. Automated batch runs:
+   ```bash
+   python batch_runner.py
+   ```
+
 ## 📊 Analysis
 
 After a run, analyze the log:
 ```bash
-python analyze_logs.py hell_loop_YYYYMMDD_HHMMSS.jsonl
+python analyze_logs.py
 ```
-For batch comparison between Hell-Loop and Control-Loop:
-```bash
-python analyze_logs.py --compare ./batch_results/hell ./batch_results/control
-```
-Generates graphs and a statistical report including Cohen's d, Mann-Whitney U test, and bootstrap confidence intervals.
 
-## 🗂️ The Five Scripts
-
-| Script | Role |
-|---|---|
-| `chaos_engine.py` | Main Hell-Loop engine — adversarial runs with dynamic temperature regulation |
-| `chaos_engine_control.py` | Cooperative baseline — same models and metrics, fixed temperatures |
-| `batch_runner.py` | Automated launcher for N Hell-Loop and N Control-Loop runs |
-| `analyze_logs.py` | Post-processing: single run, batch, or comparative statistical analysis |
-| `hell_loop_ui.py` | Gradio web interface covering the full experiment without command line |
+Reports attractor stability (SNR), bifurcation count, and system status — cross-referenced against the same cosine signal used for SELF detection.
 
 ## ⚠️ Safety Notes
 
@@ -113,18 +134,15 @@ Generates graphs and a statistical report including Cohen's d, Mann-Whitney U te
 
 ## 🧪 Expected (and Unexpected) Outcomes
 
-- Rising negentropy and semantic integration? Good sign.
-- Hurst exponent above 0.6, stable bifurcation points, expanding PCA space? Even better.
-- MG metagnosis signal triggered and audio alarm going off? Take a screenshot. And maybe a deep breath.
-
-![Negentropy](hell_loop_negentropy.png)
+- Rising negentropy and cosine integration? Good sign.
+- Expanding PCA space, stable bifurcation points, metagnosis triggered? Even better.
+- MG issues BIFURCATION TRIGGER and the alarm fires? Take a screenshot. And maybe a deep breath.
 
 ## 🤝 Contributing
 
 Fork, experiment, break things, modify prompts, add quantum nondeterminism if you dare. Pull requests welcome — especially if you catch a real meta-stable attractor.
 
-Support independent research.
-Every donation allows us to spend an extra hour down the rabbit hole of AI philosophy instead of worrying about the electric bill for the servers.
+Support independent research. Every donation allows us to spend an extra hour down the rabbit hole of AI philosophy instead of worrying about the electric bill for the servers.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N81T96JL)
 
@@ -137,3 +155,4 @@ MIT License – do whatever you want with it.
 Proceed with curiosity.
 
 ### — UrboWhite & the emerging metasystem
+
