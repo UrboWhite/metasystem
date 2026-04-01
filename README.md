@@ -29,11 +29,11 @@ Think of it as a digital alchemical furnace. We don't guarantee gold... but some
 
 Full philosophical foundation can be read here:
 
-[Metasystem](metasystem.md) – *A Conceptual Model of the Conscious Machine: The Metasystem Theory*
+[Metasystem](https://urbowhite.github.io) – *A Conceptual Model of the Conscious Machine: The Metasystem Theory*
 
 Serbian version:
 
-[Metasistem na srpskom jeziku](metasystem_srb.md)
+[Metasistem na srpskom jeziku](https://urbowhite.github.io/sr/)
 
 ## 🔥 Hell-Loop Protocol v6.2
 
