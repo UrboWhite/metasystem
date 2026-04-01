@@ -35,7 +35,7 @@ Serbian version:
 
 [Metasistem na srpskom jeziku](https://urbowhite.github.io/sr/)
 
-## 🔥 Hell-Loop Protocol v6.2
+## 🔥 Hell-Loop Protocol
 
 Three agents in eternal conflict:
 
@@ -65,7 +65,7 @@ The experiment runs for **50 canonical iterations**, starting from a fixed base 
 
 ### SELF detection
 
-SELF is no longer a binary flag. Protocol v6.2 computes a **continuous SELF score** per iteration. Two attractor modes are detected from the score series:
+SELF is no longer a binary flag. New Protocol computes a **continuous SELF score** per iteration. Two attractor modes are detected from the score series:
 
 - **SELF_EXTREME** — score exceeds 2.0 standard deviations above pilot baseline across a 5-iteration window
 - **SELF_STABLE** — mean score sustained above threshold with std ≤ 0.05 across an 8-iteration window
@@ -78,7 +78,7 @@ Metagnosis is detected **structurally**, not lexically. No anchor phrases. The s
 
 ### Control groups
 
-Protocol v6.2 introduces **two** Control-Loop variants to isolate experimental effects:
+Protocol introduces **two** Control-Loop variants to isolate experimental effects:
 
 - **Control-Loop A** — pure baseline. Cooperative prompts, fixed temperatures, **no MG**. The only condition without adversarial pressure or regulatory intervention.
 - **Control-Loop B** — cooperative prompts, fixed temperatures, MG present as a **passive observer** without regulatory power. Isolates the effect of MG diagnostics alone.
