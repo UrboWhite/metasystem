@@ -247,9 +247,7 @@ Install all required libraries:
 Run: `python hell_loop_ui.py`
 Open http://127.0.0.1:7860 in your browser.
 
-All five scripts are available for replication and can serve as a foundation for future research, at the GitHub repository:
-
-https://github.com/UrboWhite/metasystem
+All five scripts are available for replication and can serve as a foundation for future research.
 
 ### Expected Results and Implications
 
