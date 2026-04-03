@@ -2,8 +2,6 @@
 
 **A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18911028.svg)](https://doi.org/10.5281/zenodo.18911028)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--9619--4843-brightgreen?logo=orcid)](https://orcid.org/0009-0005-9619-4843)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![Metasystem](metasistem.png)
