@@ -263,13 +263,6 @@ In both cases, the Hell-Loop Protocol ceases to be philosophical speculation and
 
 Further development may include the integration of architecturally more heterogeneous systems — a symbolic reasoner versus a neural generator — as a true technological correlate of the FI/SI dualism described in the theory. It may also include application of this concept to domains beyond philosophy (science, law, engineering) and investigation of the correlation between measured integration and Tononi's Phi — which would allow the Hell-Loop Protocol to become an experimental tool for testing Integrated Information Theory (IIT) in the context of artificial systems.
 
-## ⚠️ Safety Notes
-
-- Oracle AI principle: no external actions possible
-- This is a simulation of resonance, not a claim of phenomenal consciousness
-- Measured signals are necessary but not sufficient conditions for SELF — not direct proof of consciousness
-- Use at your own existential risk 😏
-
 ## 🤝 Contributing
 
 Fork, experiment, break things, modify prompts, add quantum nondeterminism if you dare. Pull requests welcome — especially if you catch a real meta-stable attractor.
