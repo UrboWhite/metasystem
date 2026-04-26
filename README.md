@@ -24,6 +24,8 @@ Full philosophical foundation can be read here:
 
 [Metasystem](https://urbowhite.github.io) – *A Conceptual Model of the Conscious Machine: The Metasystem Theory*
 
+DOI: [zenodo.19721276](https://doi.org/10.5281/zenodo.19721276)
+
 Serbian version:
 
 [Metasistem na srpskom jeziku](https://urbowhite.github.io/sr/)
