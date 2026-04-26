@@ -2,7 +2,7 @@
 
 **A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
 
-![Metasystem](metasistem.png)
+![Metasystem](images/metasistem.png)
 
 This repository contains the **Hell-Loop Protocol** — a practical implementation of the metasystem theory proposed in the accompanying treatise.
 
