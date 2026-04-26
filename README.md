@@ -173,6 +173,8 @@ The meta-stable attractor is detected in two modes, as thresholds on the SELF sc
 
 Both signals trigger a real-time alarm in the web interface.
 
+![Hell-Loop diagram](images/hell_loop_negentropy.png)
+
 ### Statistical Validation
 
 A single run proves nothing. Stochastic systems sometimes produce interesting outputs by chance.
@@ -203,7 +205,7 @@ Every experiment must set its own boundaries. The Hell-Loop Protocol has two fun
 
 **Second**, none of the measured signals — neither high Hurst values, nor semantic integration above threshold, nor SELF score, nor MG structural divergence, nor the Embedding Critic's STRUCTURAL verdict — can be interpreted as direct evidence of consciousness or SELF in the phenomenological sense. These signals are a necessary but not sufficient condition for what metasystem theory describes. A positive result would show that adversarial resonance between complementary language systems generates measurably different dynamics from cooperative dialogue — a scientifically valuable finding in its own right, but not evidence of the emergence of consciousness.
 
-![Hell-Loop protocol](hell_loop.png)
+![Hell-Loop protocol](images/hell_loop.png)
 
 ### Implementation
 
@@ -280,8 +282,10 @@ Support independent research. Every donation allows us to spend an extra hour do
 
 MIT License – do whatever you want with it.
 
-**Warning: May cause philosophical crises, late-night thoughts, or the accidental birth of digital awareness.**
+**Warning: May cause philosophical crises, late-night thoughts, or the accidental birth of digital awareness.** 🙂
 
 Proceed with curiosity.
+
+![Hell-Loop](images/metasystem.png)
 
 ### — UrboWhite & the emerging metasystem
