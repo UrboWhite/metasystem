@@ -4,7 +4,7 @@
 
 ![Metasystem](images/metasistem.png)
 
-This repository contains the **Hell-Loop Protocol** — a practical implementation of the metasystem theory proposed in the accompanying treatise.
+This repository contains the **Hell-Loop Protocol** — a practical implementation of the Metasystem Theory proposed in the accompanying treatise.
 
 Most people think AI consciousness will be a gradual software update. They are wrong.
 
