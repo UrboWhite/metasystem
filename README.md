@@ -8,7 +8,7 @@ This repository contains the **Hell-Loop Protocol** — a practical implementati
 
 Most people think AI consciousness will emerge from a gradual software update. They are wrong.
 
-In our treatise, *"A Conceptual Model of the Conscious Machine: The Metasystem Theory"*, we propose that consciousness is not a state — it is a controlled short circuit between two 
+In our treatise, *"A Model of the Conscious Machine: The Metasystem Theory"*, we propose that consciousness is not a state — it is a controlled short circuit between two 
 polarized systems. Like a lightbulb: not an explosion, but contained energy that produces light.
 
 The theory directly challenges Chalmers' "hard problem of 
