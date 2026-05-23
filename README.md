@@ -1,4 +1,4 @@
-# A Model of the Conscious Machine: The Metasystem Theory
+# Model of the Conscious Machine: The Metasystem Theory
 
 **A philosophical and experimental framework for exploring artificial consciousness through resonance, reflection, and controlled conflict.**
 
