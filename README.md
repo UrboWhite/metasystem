@@ -21,7 +21,7 @@ second-order actuator: it diagnoses the system's state
 through live metrics and actively intervenes to maintain the optimal tension between them, preventing both 
 collapse into consensus and disintegration into chaos
 
-The goal is **not** to claim we've created true consciousness, but to experimentally test whether *Adversarial System Prommpting (ASP)* between architecturally distinct language models can produce a measurably different dynamic structure from cooperative dialogue — one whose properties are compatible with the theoretical conditions for the emergence of SELF. Hell-Loop protocol is not proof of consciousness in a machine; rather, it is a matter of testing whether we can create conditions under which something resembling consciousness could emerge.
+The goal is **not** to claim we've created true consciousness, but to experimentally test whether *Adversarial System Prompting (ASP)* between architecturally distinct language models can produce a measurably different dynamic structure from cooperative dialogue — one whose properties are compatible with the theoretical conditions for the emergence of SELF. Hell-Loop protocol is not proof of consciousness in a machine; rather, it is a matter of testing whether we can create conditions under which something resembling consciousness could emerge.
 
 ## 📜 The Book
 
