@@ -12,7 +12,7 @@ A philosophical and experimental framework for exploring artificial awareness th
 
 Most of the AI industry is obsessed with scaling parameters and aligning models toward consensus and agreeableness (RLHF). We propose a different path. 
 
-In the book **[Metasystem Theory: A Path Towards a Model of the Conscious Machine](https://doi.org/10.5281/zenodo.21051909)**, we argue that consciousness is not a static state of an isolated substrate. It is a **controlled short-circuit** between two polarized systems. Like a lightbulb: it is not the explosion of energy, but the *contained tension* that produces light.
+In the book **[Metasystem Theory: A Path Towards a Model of the Conscious Machine](https://urbowhite.github.io/)**, we argue that consciousness is not a static state of an isolated substrate. It is a **controlled short-circuit** between two polarized systems. Like a lightbulb: it is not the explosion of energy, but the *contained tension* that produces light.
 
 This repository contains the **Hell-Loop Protocol** — a working, reproducible experiment that brings this cybernetic provocation to life.
 
